@@ -1,1 +1,1 @@
-this about creating new directory.
+This all about git.
